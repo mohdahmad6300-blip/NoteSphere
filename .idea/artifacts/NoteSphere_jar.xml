@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NoteSphere:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NoteSphere_jar</output-path>
+    <root id="archive" name="NoteSphere.jar">
+      <element id="module-output" name="NoteSphere" />
+    </root>
+  </artifact>
+</component>
